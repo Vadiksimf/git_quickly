@@ -1,5 +1,12 @@
 # git_quickly
 
+## AUTH
+1. Password auth:
+git clone https://user.name@github.com/userOwner/serverRepo.git
+
+2. Token auth:
+git clone https://scuzzlebuzzle:<MYTOKEN>@github.com/scuzzlebuzzle/ol3-1.git --branch=gh-pages gh-pages
+
 ## Git initializating
 Set up user
 ``` git
